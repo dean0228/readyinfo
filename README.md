@@ -4,6 +4,10 @@
 
 > 当前为产品展示仓库。完整源代码与安装包暂未公开。
 
+## Overview
+
+ReadyInfo is a local-first desktop reader for collecting, searching and understanding AI-related information while keeping sources traceable.
+
 ## 为什么做它
 
 AI 行业信息密集、来源分散，真正重要的内容很容易被重复报道和信息噪声淹没。ReadyInfo 希望把“收集、筛选、阅读、理解、回查原文”整合成一条清晰的本地工作流。
@@ -36,7 +40,7 @@ AI 行业信息密集、来源分散，真正重要的内容很容易被重复�
 
 ## 当前状态
 
-- 当前内部版本：v0.10.1 · Build 23
+- 当前内部版本：`v0.10.1 · Build 23`
 - 当前验证平台：macOS Apple Silicon
 - Windows、签名、公证和正式公开分发仍在规划中
 - 当前安装包为内部测试构建，不面向公开下载
@@ -52,3 +56,5 @@ ReadyInfo 仅聚合用户主动配置或公开可访问的信息源。第三方�
 ---
 
 Built by [@dean0228](https://github.com/dean0228)
+
+Copyright © 2026 Dean. All rights reserved.
